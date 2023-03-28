@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(59, 196, 250);
+}
+#jogos{
+    border-radius: 10px;
+    width: 400px ;
+}
+#bem_vindo{
+    background: linear-gradient(rgb(19, 226, 19)  0%, rgb(44, 41, 41) 100%);
+}
+h1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+}
+#nome{
+    font-size: 50px;
+    font-family: 'Indie Flower', cursive;
+
+    
+}
+h2{
+    font-size: 30px;
+    font-family:monospace;
+    font-weight: 300;
+}
+#menu{
+    list-style: none;
+    right: 30px;
+    position: fixed;
+    top: 0px;   
+    z-index: 10;
+    width: 100%;
+    background-color: aquamarine;
+    margin-top:0px;
+    margin-left:0px;
+    left: 0px;
+}
+.item{
+    float: left;
+    padding: 10px;
+
+}
+a{
+    text-decoration: none;
+}
